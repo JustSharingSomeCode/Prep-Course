@@ -6,6 +6,11 @@ img {
     width: 400px;
 }
 
+div{
+    margin: auto;
+    text-align: center;
+}
+
 #thirdDiv {
     height: 600px;
     width: 500px;
